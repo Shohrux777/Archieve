@@ -1,0 +1,112 @@
+{
+    "id": 0,
+    "active_status": true,
+    "created_date_time": "2021-11-24T13:21:10.274Z",
+    "updated_date_time": "2021-11-24T13:21:10.274Z",
+    "real_company_id": 0,
+    "product_id": 0,
+    "product": {
+      "id": 0,
+      "active_status": true,
+      "created_date_time": "2021-11-24T13:21:10.274Z",
+      "updated_date_time": "2021-11-24T13:21:10.274Z",
+      "real_company_id": 0,
+      "name": "string",
+      "print_name": "string",
+      "code": "string",
+      "barcode": "string",
+      "price": 0,
+      "buyed_price": 0,
+      "image": "string",
+      "product_reg_code": "string",
+      "info": "string",
+      "publisher_name": "string",
+      "percentage": 0,
+      "unitmeasurment_id": 0,
+      "measurment": {
+        "id": 0,
+        "active_status": true,
+        "created_date_time": "2021-11-24T13:21:10.274Z",
+        "updated_date_time": "2021-11-24T13:21:10.274Z",
+        "real_company_id": 0,
+        "name": "string"
+      },
+      "brend_id": 0,
+      "brend": {
+        "id": 0,
+        "active_status": true,
+        "created_date_time": "2021-11-24T13:21:10.274Z",
+        "updated_date_time": "2021-11-24T13:21:10.274Z",
+        "real_company_id": 0,
+        "name": "string"
+      },
+      "category_id": 0,
+      "category": {
+        "id": 0,
+        "active_status": true,
+        "created_date_time": "2021-11-24T13:21:10.274Z",
+        "updated_date_time": "2021-11-24T13:21:10.274Z",
+        "real_company_id": 0,
+        "name": "string"
+      },
+      "product_type_id": 0,
+      "type": {
+        "id": 0,
+        "active_status": true,
+        "created_date_time": "2021-11-24T13:21:10.274Z",
+        "updated_date_time": "2021-11-24T13:21:10.274Z",
+        "real_company_id": 0,
+        "name": "string"
+      },
+      "product_tag_id": 0,
+      "productTag": {
+        "id": 0,
+        "active_status": true,
+        "created_date_time": "2021-11-24T13:21:10.274Z",
+        "updated_date_time": "2021-11-24T13:21:10.274Z",
+        "real_company_id": 0,
+        "name": "string"
+      },
+      "note": "string",
+      "main_product_id": 0,
+      "mainPosProduct": "string",
+      "subProductList": [
+        "string"
+      ],
+      "nds": 0,
+      "min_qty": 0,
+      "discount_status": true,
+      "posProductRecipeList": [
+        {
+          "id": 0,
+          "active_status": true,
+          "created_date_time": "2021-11-24T13:21:10.274Z",
+          "updated_date_time": "2021-11-24T13:21:10.274Z",
+          "real_company_id": 0,
+          "product_id": 0,
+          "product": "string",
+          "recipe_product_id": 0,
+          "recipeProduct": "string",
+          "qty": 0,
+          "price": 0
+        }
+      ],
+      "barcodeList": [
+        {
+          "id": 0,
+          "active_status": true,
+          "created_date_time": "2021-11-24T13:21:10.275Z",
+          "updated_date_time": "2021-11-24T13:21:10.275Z",
+          "real_company_id": 0,
+          "barcode": "string",
+          "product_id": 0,
+          "product": "string"
+        }
+      ]
+    },
+    "price": 0,
+    "buyed_price": 0,
+    "percantage": 0,
+    "real_qty": 0,
+    "qty": 0
+  }
